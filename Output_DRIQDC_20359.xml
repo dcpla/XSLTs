@@ -1,0 +1,15 @@
+<qualifieddc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"xmlns:marcrel="http://www.loc.gov/marc.relators/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"xsi:schemaLocation="http://www.loc.gov/marc.relators/ http://imlsdcc2.grainger.illinois.edu/registry/marcrel.xsd"xsi:noNamespaceSchemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/qualifieddc.xsd">
+<dc:title>Round Tower, Clondalkin</dc:title>
+<dc:creator>Brennan</dc:creator>
+<dcterms:created>
+name=1817-1935; start=1817-01-01; end=1935-12-31; scheme=W3C-DTF;
+</dcterms:created>
+<dc:description>Postcards and Views Box 1</dc:description>
+<dc:rights>Dublin City Library And Archive</dc:rights>
+<dc:type>Photo B&W</dc:type>
+<dc:type xsi:type="dcterms:DCMIType">Image</dc:type>
+<dc:publisher>Dublin City Library And Archive</dc:publisher>
+<dc:identifier>vital:20359</dc:identifier>
+<dc:identifier>ITA-Clondalkin-09.tif</dc:identifier>
+<dcterms:spatial>Dublin</dcterms:spatial>
+</qualifieddc>
