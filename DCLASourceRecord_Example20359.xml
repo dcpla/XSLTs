@@ -1,0 +1,26 @@
+<foxml:digitalObject xmlns:foxml="info:fedora/fedora-system:def/foxml#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" VERSION="1.1" PID="vital:20359" xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>...</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">...</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="Dublin Core for this Record" CREATED="2016-08-16T14:51:38.477Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="729">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Round Tower, Clondalkin</dc:title>
+<dc:creator>Brennan</dc:creator>
+<dc:description>Postcards and Views Box 1</dc:description>
+<dc:publisher>Dublin City Library And Archive</dc:publisher>
+<dc:type>Photo B&W</dc:type>
+<dc:identifier>vital:20359</dc:identifier>
+<dc:identifier>ITA-Clondalkin-09.tif</dc:identifier>
+<dc:coverage>Dublin</dc:coverage>
+<dc:rights>Dublin City Library And Archive</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="IMAGE2" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">...</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">...</foxml:datastream>
+<foxml:datastream ID="PREMISART" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">...</foxml:datastream>
+<foxml:datastream ID="JHOVEART" STATE="A" CONTROL_GROUP="M" VERSIONABLE="false">...</foxml:datastream>
+<foxml:datastream ID="THUMBNAIL" STATE="A" CONTROL_GROUP="M" VERSIONABLE="false">...</foxml:datastream>
+</foxml:digitalObject>
